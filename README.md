@@ -1,4 +1,3 @@
-<img width="1440" height="900" alt="hero" src="https://github.com/user-attachments/assets/fb37836c-2b81-4f2a-8859-1ad3d884f075" />
 # Barakah Bites — Blessed Flavors ~ Bold Bites
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-gold?style=for-the-badge&logo=google-chrome)](https://your-demo-link.com)
@@ -13,7 +12,8 @@
 
 | Hero Section | Menu Section |
 |--------------|---------------|
-| ![Hero]<img width="1440" height="900" alt="hero" src="https://github.com/user-attachments/assets/fb37836c-2b81-4f2a-8859-1ad3d884f075" /> | ![Menu](https://via.placeholder.com/400x250?text=Menu+Section+Preview) |
+| ![Hero]<img width="720" height="450" alt="hero" src="https://github.com/user-attachments/assets/fb37836c-2b81-4f2a-8859-1ad3d884f075" /> | ![Menu]<img width="720" height="450" alt="menu" src="https://github.com/user-attachments/assets/19c3a3ff-3b41-430a-9e50-dce3284f1f7f" />
+ |
 
 *Replace placeholder images with actual screenshots of your site.*
 
