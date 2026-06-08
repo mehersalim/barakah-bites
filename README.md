@@ -12,7 +12,7 @@
 
 | Hero Section | Menu Section |
 |--------------|---------------|
-| ![Hero]<img width="720" height="450" alt="hero" src="https://github.com/user-attachments/assets/fb37836c-2b81-4f2a-8859-1ad3d884f075" /> | ![Menu]<img width="720" height="450" alt="menu" src="https://github.com/user-attachments/assets/19c3a3ff-3b41-430a-9e50-dce3284f1f7f" />
+| <img width="720" height="450" alt="hero" src="https://github.com/user-attachments/assets/fb37836c-2b81-4f2a-8859-1ad3d884f075" /> |<img width="720" height="450" alt="menu" src="https://github.com/user-attachments/assets/19c3a3ff-3b41-430a-9e50-dce3284f1f7f" />
  |
 
 *Replace placeholder images with actual screenshots of your site.*
