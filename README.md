@@ -1,3 +1,4 @@
+<img width="1440" height="900" alt="hero" src="https://github.com/user-attachments/assets/fb37836c-2b81-4f2a-8859-1ad3d884f075" />
 # Barakah Bites — Blessed Flavors ~ Bold Bites
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-gold?style=for-the-badge&logo=google-chrome)](https://your-demo-link.com)
