@@ -63,7 +63,7 @@ barakah-bites/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/barakah-bites.git
+   git clone https://mehersalim.github.io/barakah-bites/
    
 ### Navigate to the project folder
 cd barakah-bites
