@@ -13,7 +13,7 @@
 
 | Hero Section | Menu Section |
 |--------------|---------------|
-| ![Hero](https://via.placeholder.com/400x250?text=Hero+Section+Preview) | ![Menu](https://via.placeholder.com/400x250?text=Menu+Section+Preview) |
+| ![Hero]<img width="1440" height="900" alt="hero" src="https://github.com/user-attachments/assets/fb37836c-2b81-4f2a-8859-1ad3d884f075" /> | ![Menu](https://via.placeholder.com/400x250?text=Menu+Section+Preview) |
 
 *Replace placeholder images with actual screenshots of your site.*
 
